@@ -2,8 +2,6 @@
 
 # 31st International Workshop on High-level Parallel Programming Models and Supportive Environments
 
-# Held in conjunction with IPDPS 2026, New Orleans, Louisiana USA
-
 # Overview
 The 31st HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2026 conference in New Orleans, Louisiana, USA, focuses on high-level programming of
 multiprocessors, compute clusters, and massively
@@ -35,15 +33,18 @@ systems and many-core architectures.
 <!-- June 3, 2026 \\
 09:00 - 17:35 CEST -->
 
-## Welcome Remarks
+## Welcome Remarks 
+(Coming Soon)
 <!-- 09:00 - 09:05 CEST \\
 **Michael Gerndt** (Technical University of Munich) -->
 
 ## Celebrating Three Decades of HIPS
+(Coming Soon)
 <!-- 09:05 - 09:30 CEST \\
 **Michael Gerndt** (Technical University of Munich) -->
 
 ## Keynote
+(Coming Soon)
 <!-- 09:30 - 10:30 CEST \\
 **Title: Reflections on 30 years of HPC programming: So many hardware advances, so little adoption of new languages**  \\
 **Bradford Chamberlain, Hewlett Packard Enterprise**
@@ -60,10 +61,12 @@ Brad Chamberlain is a Distinguished Technologist at Hewlett Packard Enterprise (
 
 <img src="./assets/Brad-LinuxCon.jpg" style="display: block; margin: 0 auto" width="50%"/> -->
 
-## Coffee Break
+<!-- ## Coffee Break -->
+(Coming Soon)
 <!-- 10:30 - 11:00 CEST -->
 
-## Paper Session One
+<!-- ## Paper Session One
+(Coming Soon) -->
 <!-- 10:30 - 12:30 CEST -->
 
 <!-- **Serverless IoT Framework**\\
@@ -93,10 +96,10 @@ Raneem Abu-Yosef, **Bokyeong Yoon**, Martin Kong
 **Data Transfer Schemes in the High-Level Communication Library LAIK**\\
 Josef Weidendorfer, Lukas Neef, Robert Hubinger, **Amir Raoofy** -->
 
-## Coffee Break
+<!-- ## Coffee Break -->
 <!-- 16:00 - 16:30 CEST -->
 
-## Paper Session Three
+<!-- ## Paper Session Three -->
 <!-- 16:30 - 17:30 CEST -->
 
 <!-- **SYCL for HPC: Adapting to Diverse CPU Architecture**\\
@@ -142,7 +145,6 @@ The main focus areas for this workshop may include, but are not limited to:
 
 # Important Deadlines
 
-
 Submission due date: Early January 2026
 <!-- </strike> January 27 2026 (extended), Anywhere on Earth (AoE) -->
 
@@ -152,8 +154,7 @@ Author notification: Mid February 2026
 <!-- Camera-ready papers: <strike>March 6th, 2026 AoE</strike> March 13th, 2026 AoE -->
 
 Camera-ready papers: End of February 2026
-(once approved, dates can/will be adjusted
-based on IPDPS schedules)
+<!-- (once approved, dates can/will be adjusted based on IPDPS schedules) -->
 
 ---
 ---
@@ -250,8 +251,7 @@ Any paper that is not presented at the conference will not be included in IEEE X
 
 | Workshop                                                                       | Date            | Location                            |
 |--------------------------------------------------------------------------------|-----------------|-------------------------------------|
-| [30th HIPS 2025](https://hips2025.github.io)        
-June 3, 2025    | Milan, Italy
+| [30th HIPS 2025](https://hips2025.github.io)                                   | June 3, 2025    | Milan, Italy
 | [29th HIPS 2024](https://hips2024.github.io/)                                  | May 31st 2023   | San Francisco, California USA       |
 | [28th HIPS 2023](https://hips2023.github.io/)                                  | May 15th 2023   | St. Petersburg, Florida, USA        |
 | [27th HIPS 2022](https://hips2022.github.io/)                                  | May 30th 2022   | Virtual                             |
