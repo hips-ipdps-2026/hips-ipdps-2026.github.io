@@ -32,16 +32,16 @@ systems and many-core architectures.
 ---
 
 # Program
-June 3, 2026 \\
-09:00 - 17:35 CEST
+<!-- June 3, 2026 \\
+09:00 - 17:35 CEST -->
 
 ## Welcome Remarks
-09:00 - 09:05 CEST \\
-**Michael Gerndt** (Technical University of Munich)
+<!-- 09:00 - 09:05 CEST \\
+**Michael Gerndt** (Technical University of Munich) -->
 
 ## Celebrating Three Decades of HIPS
-09:05 - 09:30 CEST \\
-**Michael Gerndt** (Technical University of Munich)
+<!-- 09:05 - 09:30 CEST \\
+**Michael Gerndt** (Technical University of Munich) -->
 
 ## Keynote
 <!-- 09:30 - 10:30 CEST \\
