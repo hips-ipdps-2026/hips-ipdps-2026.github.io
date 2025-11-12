@@ -26,7 +26,7 @@ systems and many-core architectures.
 ## Camera ready due extended to March 13th, 2026 AoE
 ## Workshop program is available below. -->
 
----
+<!-- --- -->
 <!-- --- -->
 
 # Program
@@ -182,21 +182,22 @@ Any paper that is not presented at the conference will not be included in IEEE X
 
 ## Workshop Co-chairs
 - Martin Kong The Ohio State University, Columbus, Ohio, USA (moreno.244@osu.edu)\
-    Related organization experience: General Chair of
+    <!-- Related organization experience: General Chair of
     Compiler Construction 2026; Artifact Evaluation
     Chair of Compiler Construction 2024 & 2022;
     Member of program committees such as CGO’25,
     SC’23, PPoPP’24; Workshops and Tutorials Chair -
-    CGO’24.
+    CGO’24. -->
 - Nikela Papadopoulou, University of Glasgow (Nikela.Papadopoulou@glasgow.ac.uk)\
-    Related organization experience: Chair of AshES
-    Workshop at IPDPS (2023, 2024, 2025); Proceedings
-    Chair of FPL 2023; Member of program committees
-    such as IEEE CLUSTER’25, EuroPar’25, SC’25
-    workshops.
+    <!-- Related organization experience: Chair of AshES -->
+    <!-- Workshop at IPDPS (2023, 2024, 2025); Proceedings -->
+    <!-- Chair of FPL 2023; Member of program committees -->
+    <!-- such as IEEE CLUSTER’25, EuroPar’25, SC’25 -->
+    <!-- workshops. -->
 
 
 ## Steering Committee
+(Coming soon)
 <!-- - Rudolf Eigenmann, University of Delaware, USA
 - Michael Gerndt, Technische Universität München, Germany
 - Frank Mueller, North Carolina State University, USA
@@ -210,24 +211,6 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Richard Veras, University of Oklahoma, USA
 - Malith Jayaweera, AWS., USA
 - Tiago Cogumbreiro, University of Massachusets, Boston, USA
-<!-- - James Lin, Shanghai Jiao Tong University, China
-- Josef Weidendorfer, Leibniz Supercomputing Centre, Munich, Germany
-- Michael Philippsen, Friedrich-Alexander University Erlangen-Nürnberg , Germany
-- Miwako Tsuji, RIKEN Center for Computational Science, Japan
-- Mohak Chadha, Nvidia, Germany
-- Mohammad Alaul Haque Monil, Oak Ridge National Laboratory, USA
-- Nikela Papadopoulou, University of Glasgow, UK
-- Onkar Patil, IBM, USA
-- Shajulin Benedict, IIIT Kottayam, India
-- Siegfried Benkner, Universität Wien, Austria
-- Thomas Fahringer, University of Innsbruck, Austria
-- Tomohiro Ueno, RIKEN Center for Computational Science, Japan -->
-
-[//]: # (William Moses, Massachusetts Institute of Technology, USA)
-[//]: # (Jeffrey Young, Georgia Institute of Technology, USA)
-[//]: # (Qijing Jenny Huang, NVIDIA, USA)
-[//]: # (Oliver Fuhrer, ETH Zurich/MeteoSwiss, Switzerland)
-[//]: # "Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand"
 
 ---
 <!-- --- -->
