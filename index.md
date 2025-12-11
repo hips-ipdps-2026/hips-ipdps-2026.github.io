@@ -162,7 +162,7 @@ All submissions should be formatted according to the IPDPS paper style (IEEE con
 
 Please submit papers through [the HIPS EasyChair site](https://easychair.org/conferences/?conf=hips2026)
 
-[HIPS 2026 Call for Papers] (HIPS26_CFP.txt)
+[HIPS 2026 Call for Papers](HIPS26_CFP.txt)
 <!--
 [IPDPS 2026 Call for Papers] (Coming soon)
 -->
@@ -182,9 +182,9 @@ Any paper that is not presented at the conference will not be included in IEEE X
 # Committees
 
 ## Workshop Co-chairs
-- Martin Kong The Ohio State University, Columbus, Ohio, USA [moreno.244@osu.edu](mailto:moreno.244@osu.edu)\
+- Martin Kong The Ohio State University, Columbus, Ohio, USA [moreno.244@osu.edu](mailto:moreno.244@osu.edu)
 - Nikela Papadopoulou, University of Glasgow
-  [Nikela.Papadopoulou@glasgow.ac.uk](mailto:nikela.papadopoulou@glasgow.ac.uk)\
+  [Nikela.Papadopoulou@glasgow.ac.uk](mailto:nikela.papadopoulou@glasgow.ac.uk)
 
 
 ## Steering Committee
@@ -212,6 +212,7 @@ Martin Schulz, Technische Universität München, Germany
 - Sergio Iserte, Barcelona Supercomputing Center, Spain
 - Sunita Chandrasekaran, University of Delaware, USA
 - Tiago Cogumbreiro, University of Massachusetts Boston, USA
+
 ---
 <!-- --- -->
 
