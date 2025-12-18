@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 
+repository: hips-ipdps-2026/hips-ipdps-2026.github.io
 title: "HIPS 2026"
 description: "The 31st HIPS workshop, held in conjunction with IPDPS 2026."
 show_downloads: false
