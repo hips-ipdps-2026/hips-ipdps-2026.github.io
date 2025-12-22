@@ -195,13 +195,12 @@ Martin Schulz, Technische Universität München, Germany
 
 ## Program Committee
 - Akihiro Ayashi, Georgia Tech, USA
+- Amanda Bienz, University of New Mexico, USA 
 - Doru Popovici, Lawrence Berkeley National Lab, USA
-- Florina Ciorba, University of Basel, Switzerland
 - Gordon Moon, Sogang University, South Korea
 - Jens Domke, RIKEN, Japan
 - Jing Chen, Chalmers University of Technology, Sweden
 - Jinsung Kim, Chung-Ang University, South Korea
-- Johannes Doerfert, Lawrence Livermore National Lab, USA
 - Jun Shirako, Georgia Tech, USA
 - Kirshanthan Sundararajah, Virginia Tech, USA
 - Malith Jayaweera, AWS, USA
@@ -210,6 +209,7 @@ Martin Schulz, Technische Universität München, Germany
 - Petros Anastasiadis, Huawei Research, Switzerland
 - Richard Veras, University of Oklahoma, USA
 - Sergio Iserte, Barcelona Supercomputing Center, Spain
+- Seyong Lee, Oak Ridge National Laboratory, USA
 - Sunita Chandrasekaran, University of Delaware, USA
 - Tiago Cogumbreiro, University of Massachusetts Boston, USA
 
