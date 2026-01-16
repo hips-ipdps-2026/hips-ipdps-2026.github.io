@@ -21,8 +21,9 @@ systems and many-core architectures.
 ---
 <!-- --- -->
 
-<!-- # News
-## Submission due extended to January 27, 2026, AoE
+-- # News
+## Submission due extended to January 24, 2026, AoE
+<!--
 ## Camera ready due extended to March 13th, 2026 AoE
 ## Workshop program is available below. -->
 
@@ -131,8 +132,8 @@ The main focus areas for this workshop may include, but are not limited to:
 
 # Important Deadlines
 
-Submission due date: January 17, 2026, Anywhere on Earth (AoE)
-<!-- </strike> January 27 2026 (extended), Anywhere on Earth (AoE) -->
+Submission due date: <strike>January 17, 2026, Anywhere on Earth (AoE)
+ </strike> January 24 2026 (extended), Anywhere on Earth (AoE) 
 
 Author notification: February 21st, 2026 AoE
 <!--Author notification: Mid February 2026 -->
