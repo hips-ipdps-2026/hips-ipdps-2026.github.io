@@ -21,7 +21,7 @@ systems and many-core architectures.
 ---
 <!-- --- -->
 
--- # News
+# News
 ## Submission due extended to January 24, 2026, AoE
 <!--
 ## Camera ready due extended to March 13th, 2026 AoE
