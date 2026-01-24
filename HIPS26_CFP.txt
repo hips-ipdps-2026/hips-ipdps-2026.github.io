@@ -29,7 +29,7 @@ Topics of interest to the HIPS workshop include but are not limited to:
     - Static and dynamic analysis for bug detection of parallel and distributed programs.
 
 [Important Dates]
--Paper submission deadline (EXTENDED): January 24, 2026, Anywhere on Earth (AoE)
+-Paper submission deadline (FINAL EXTENSION): January 31, 2026, Anywhere on Earth (AoE)
 -Notification of acceptance: February 21, 2026 AoE
 -Camera-ready papers due: March 6, 2026 AoE
 -Workshop day: May 25, 2026 (IPDPS26 will be from May 25 to 29, 2026)
