@@ -199,7 +199,6 @@ Martin Schulz, Technische Universität München, Germany
 - Amanda Bienz, University of New Mexico, USA 
 - Doru Popovici, Lawrence Berkeley National Lab, USA
 - Gordon Moon, Sogang University, South Korea
-- Jens Domke, RIKEN, Japan
 - Jing Chen, Chalmers University of Technology, Sweden
 - Jinsung Kim, Chung-Ang University, South Korea
 - Jun Shirako, Georgia Tech, USA
