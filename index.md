@@ -22,7 +22,9 @@ systems and many-core architectures.
 <!-- --- -->
 
 # News
-## Submission due extended to January 31st, 2026, AoE
+## <strike>Submission due extended to January 31st, 2026, AoE</strike>
+## Registration and visa letters information available [here](https://www.ipdps.org/ipdps2026/2026-registration.html).
+## Camera-ready deadline extended to Marth 13th, AoE
 <!--
 ## Camera ready due extended to March 13th, 2026 AoE
 ## Workshop program is available below. -->
@@ -103,9 +105,8 @@ Sanil Rao, **Larry Tang**, Franz Franchetti
 ---
 
 # Registration
-Attendance at this workshop is part of the registration for IPDPS 2026. See 
-(Coming soon) to register.
-<!-- [here](http://www.ipdps.org/ipdps2026/2026-registration.html)  -->
+Attendance at this workshop is part of the registration for IPDPS 2026. See [here](https://www.ipdps.org/ipdps2026/2026-registration.html) 
+for registration and visa letters information.
 
 
 <!-- Note: at least one author of each paper must be registered for the symposium by March 31st in order for the paper to be published in the proceedings. It must be a full registration unless the sole author of the paper is a student. -->
@@ -138,7 +139,7 @@ Submission due date: <strike>January 17th</strike> <strike>January 24th</strike>
 Author notification: February 21st, 2026 AoE
 <!--Author notification: Mid February 2026 -->
 
-Camera-ready papers: March 6th, 2026 AoE 
+Camera-ready papers: <strike>March 6th</strike> March 13th, 2026 AoE 
 
 <!--Camera-ready papers: End of February 2026-->
 <!-- (once approved, dates can/will be adjusted based on IPDPS schedules) -->
