@@ -197,7 +197,8 @@ Martin Schulz, Technische Universität München, Germany
 
 ## Program Committee
 - Akihiro Ayashi, Georgia Tech, USA
-- Amanda Bienz, University of New Mexico, USA 
+- Amanda Bienz, University of New Mexico, USA
+- Amir Raoofy, Leibniz Supercomputing Centre, Germany
 - Doru Popovici, Lawrence Berkeley National Lab, USA
 - Gordon Moon, Sogang University, South Korea
 - Jing Chen, Chalmers University of Technology, Sweden
