@@ -34,7 +34,7 @@ systems and many-core architectures.
 <!-- --- -->
 
 # Program
-(TBD)
+**Coming Soon**
 <!-- June 3, 2026 \\
 09:00 - 17:35 CEST -->
 
