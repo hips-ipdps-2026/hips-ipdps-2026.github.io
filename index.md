@@ -22,9 +22,11 @@ systems and many-core architectures.
 <!-- --- -->
 
 # News
-## <strike>Submission due extended to January 31st, 2026, AoE</strike>
+## Workshop Program now available! 
 ## Registration and visa letters information available [here](https://www.ipdps.org/ipdps2026/2026-registration.html).
-## Camera-ready deadline extended to Marth 13th, AoE
+## <strike>Camera-ready deadline extended to Marth 13th, AoE</strike>
+## <strike>Submission due extended to January 31st, 2026, AoE</strike>
+
 <!--
 ## Camera ready due extended to March 13th, 2026 AoE
 ## Workshop program is available below. -->
@@ -34,21 +36,82 @@ systems and many-core architectures.
 <!-- --- -->
 
 # Program
-**Coming Soon**
-<!-- June 3, 2026 \\
-09:00 - 17:35 CEST -->
+***Monday 25, 2026, 08:45 - 16:30 CDT***  
+*Marriott on Canal Street, Room D*
 
 ## Welcome Remarks 
-(TBD)
-<!-- 09:00 - 09:05 CEST \\
-**Michael Gerndt** (Technical University of Munich) -->
+*08:45 - 09:00 CDT*  
 
-<!-- 09:05 - 09:30 CEST \\
-**Michael Gerndt** (Technical University of Munich) -->
+**Martin Kong** (The Ohio State University)  
+**Nikela Papadopoulou** (University of Glasgow)
 
 ## Keynote
-(TBD)
+*09:00 - 10:00 CDT*  
 
+Speaker: **Jeffrey S. Vetter (Oak Ridge National Laboratory)**  
+Title: **Navigating the Post-Exascale Computing Era: Genesis, Promotware, and Gigawatts**  
+
+*Abstract:*  
+Today's largest computing installations are approaching power consumption levels once reserved for heavy industry, with roadmaps pointing toward multi-gigawatt campus deployments within the decade. This gigawatt imperative, driven by the convergence of Exascale science and industrial-scale AI factories, makes energy efficiency the defining constraint of next-generation system design. Achieving the necessary efficiency gains demands a shift toward deeply heterogeneous architectures that pair conventional processors with domain-specific accelerators and possibly paradigms like analog and quantum co-processors. Yet this hardware diversity creates a software crisis: developers must now write, port, and optimize code across an ever-expanding set of programming models, memory hierarchies, and execution paradigms; this task is rapidly becoming intractable through manual effort alone. In the final part of this talk, I will discuss how AI can be used to cut through this complexity. By embedding AI into the software development lifecycle where it can automate code migration, optimize execution, and dynamically map work to resources, we can empower developers to productively target the full spectrum of heterogeneous hardware while keeping energy efficiency at the heart of every design decision.  
+
+*Bio:*  
+Jeffrey Vetter, Ph.D., is a Corporate Fellow at Oak Ridge National Laboratory (ORNL), where he leads the Section for Advanced Computing Systems Research and the Experimental Computing Laboratory (ExCL). Vetter earned his Ph.D. in Computer Science from the Georgia Institute of Technology. Vetter is a Fellow of the IEEE and AAAS, and an ACM Distinguished Scientist. In 2010, Vetter, as part of an interdisciplinary team from Georgia Tech, NYU, and ORNL, was awarded the ACM Gordon Bell Prize. In 2020, in collaboration with a large team from IBM and LLNL, Vetter was awarded the SC20 Test of Time award for the paper from SC02, entitled “An Overview of the Blue Gene/L Supercomputer.” In 2015, Vetter served as the SC15 Technical Program Chair. He has also mentored over a hundred early career scientists: interns, postdocs, and staff members. ExCL is an open resource for the research community where more than 100 active users explore radically new approaches to computing. His recent books, entitled "Contemporary High Performance Computing: From Petascale toward Exascale (Vols. 1-3)," survey the international landscape of HPC. Learn more information at [https://vetter.github.io/](https://vetter.github.io/).
+
+## Coffee Break 
+*10:00 - 10:30 CDT*
+
+## Session 1: LLMs for Code Generation
+*10:30 - 10:55 CDT*	\
+**Manual, Translated, or LLM-Generated? Comparing Paths to OpenMP Target Offload for LULESH** \
+Yehonatan Fridman, Gal Oren \
+\
+*10:55 - 11:10 CDT*  \
+**Evaluating LLM Generated Task Codes** \
+Sanjana Yasna, Simon Garcia de Gonzalo, Michael Robson 
+
+## Session 2: Safety and Correctness
+
+*11:10 - 11:35 CDT* \
+**OpenSHMEM and Rust: Towards PGAS in Memory-Safe Environments** \
+Yash Kumar, Michael Beebe, Brody Williams, Yong Chen, Wendy Poole, Steve Poole \
+\
+*11:35 - 12:00 CDT* \
+**Dynamic Contract Analysis for Parallel Programming Models**\
+Yussur Mustafa Oraji, Alexander Hück, Christian Bischof 
+
+## Lunch Break
+*12:00 - 13:45 CDT*
+
+## Session 3: Data Locality and Communication
+*13:45 - 14:10 CDT*  
+**Deriving Symbolic AET using Cache Identity Equation**  
+Fangzhou Liu, Yifan Zhu, Yekai Pan, Chen Ding, Yanghui Wu  
+
+*14:10 - 14:35 CDT*  
+**Multi-GPU Memory Coherence for BLAS Matrices**  
+Romain Pereira, Pierre-Etienne Polet, Thierry Gautier, Swann Perarnau  
+
+*14:35 - 15:00 CDT*  
+**Assessing the impact of MPI process placement on communication in many-core systems**  
+Jackson Wesley, Whit Schonbein, David DeBonis, Matthew G. F. Dosanjh, Amanda Bienz
+
+## Coffee Break
+*15:00 - 15:30 CDT*
+
+## Session 4: Performance Portability and Measurement on HPC Accelerators
+*15:30 - 15:55 CDT*  
+**Performance-portable Acceleration of a DNS Turbulent Reacting Flows Application with OPS**  
+Ashutosh Londhe, Hamid Kavari, Vishnu Mohan, Joe Kaushal, Istvan Reguly, Nilanjan Chakraborty, Stewart Cant,  Gihan Mudalige
+  
+*15:55 - 16:20 CDT*  
+**Mitigating Power Fluctuation in Performance Counter Measurements on NVIDIA H100 GPU**  
+Ryoma Ohara, Toshihiro Hanawa, Yohei Miki  
+
+## Closing Remarks
+*16:20 - 16:30 CDT*  
+
+**Martin Kong** (The Ohio State University)  
+**Nikela Papadopoulou** (University of Glasgow)
 
 <!-- ## Coffee Break -->
 <!-- (Coming Soon) -->
