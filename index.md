@@ -49,7 +49,7 @@ systems and many-core architectures.
 *09:00 - 10:00 CDT*  
 
 Speaker: **Jeffrey S. Vetter (Oak Ridge National Laboratory)**  
-Title: **Navigating the Post-Exascale Computing Era: Genesis, Promotware, and Gigawatts**  
+Title: **Navigating the Post-Exascale Computing Era: Genesis, Promptware, and Gigawatts**  
 
 *Abstract:*  
 Today's largest computing installations are approaching power consumption levels once reserved for heavy industry, with roadmaps pointing toward multi-gigawatt campus deployments within the decade. This gigawatt imperative, driven by the convergence of Exascale science and industrial-scale AI factories, makes energy efficiency the defining constraint of next-generation system design. Achieving the necessary efficiency gains demands a shift toward deeply heterogeneous architectures that pair conventional processors with domain-specific accelerators and possibly paradigms like analog and quantum co-processors. Yet this hardware diversity creates a software crisis: developers must now write, port, and optimize code across an ever-expanding set of programming models, memory hierarchies, and execution paradigms; this task is rapidly becoming intractable through manual effort alone. In the final part of this talk, I will discuss how AI can be used to cut through this complexity. By embedding AI into the software development lifecycle where it can automate code migration, optimize execution, and dynamically map work to resources, we can empower developers to productively target the full spectrum of heterogeneous hardware while keeping energy efficiency at the heart of every design decision.  
@@ -275,7 +275,6 @@ Martin Schulz, Technische Universität München, Germany
 - Richard Veras, University of Oklahoma, USA
 - Sergio Iserte, Barcelona Supercomputing Center, Spain
 - Seyong Lee, Oak Ridge National Laboratory, USA
-- Sunita Chandrasekaran, University of Delaware, USA
 - Tiago Cogumbreiro, University of Massachusetts Boston, USA
 
 ---
