@@ -253,10 +253,10 @@ Any paper that is not presented at the conference will not be included in IEEE X
 
 
 ## Steering Committee
-Rudolf Eigenmann, University of Delaware, USA
-Michael Gerndt, Technische Universität München, Germany
-Frank Mueller, North Carolina State University, USA
-Martin Schulz, Technische Universität München, Germany 
+- Rudolf Eigenmann, University of Delaware, USA
+- Michael Gerndt, Technische Universität München, Germany
+- Frank Mueller, North Carolina State University, USA
+- Martin Schulz, Technische Universität München, Germany 
 
 ## Program Committee
 - Akihiro Ayashi, Georgia Tech, USA
